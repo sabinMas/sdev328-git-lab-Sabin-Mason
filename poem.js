@@ -4,6 +4,11 @@ const poem = `
     At 3 A.M., they chase a dream,
     Debugging life with zero esteem.
 
+    Agents in the terminal, they code away,
+    "Just one more task", they always say,
+    Markdown files commanding their fate,
+    Token usage rising, save this for another date.
+
     "Just one more line," they boldly claim,
     Until the bug hunt turns to shame.
     For every fix, two more will rise,
